@@ -1,1 +1,3 @@
-# odin-recepies
+# odin-recipes
+
+Simple recipes website
