@@ -1,0 +1,70 @@
+* {
+    background-color: rgb(164, 219, 157);
+}
+
+.center {
+    text-align: center;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    background-color: darkgreen;
+    color: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.logo {
+    height: 200px;
+    width: auto;
+}
+
+.img {
+    width: 50%;
+    height: 50%;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 20px;
+    border-color: black;
+}
+
+.index, .ingredients, .steps {
+    font-family: "Courier New", Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.ingredients {
+    font-weight: bold;
+}
+
+.steps {
+    margin-left: 15%;
+    margin-right: 15%;
+    font-weight: lighter;
+}
+
+.button:hover {
+    background-color: rgb(80, 80, 80);
+    font-size: 22px;
+}
+
+.button {
+    margin-top: 4%;
+    margin-bottom: 5%;
+    background-color: rgb(182, 182, 182);
+    color: black;
+    font-family: "Courier New", Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+    transition-duration: 0.2s;
+}
