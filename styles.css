@@ -53,6 +53,7 @@
 .button:hover {
     background-color: rgb(80, 80, 80);
     font-size: 22px;
+    cursor: pointer;
 }
 
 .button {
